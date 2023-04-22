@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Dayane1504/Dayane1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, my name is Dayane. I'm a front-end programmer with experience in html, css and javascript.
+At the moment I'm learning java because I'm interested in working with software programming.:blush:
+<br>
+<br>
+Contact
+<br>
+<br>
+<a href="https://www.linkedin.com/in/dayane-soares-7196a526a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"><a/>
+<br>
+<br>
+<br>
+[![Dayane Stats](https://github-readme-stats.vercel.app/api?username=Dayane1504)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![Top Langs 2](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayane1504&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
