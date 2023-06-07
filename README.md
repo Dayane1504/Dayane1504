@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Olá, meu nome é Dayane. Sou um programador front-end com experiência em html, css e javascript. No momento estou aprendendo java porque estou interessado em trabalhar com programação de software.:blush:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hello, my name is Dayane. I'm a front-end programmer with experience in html, css and javascript.
 At the moment I'm learning java because I'm interested in working with software programming.:blush:
 <br>
@@ -11,7 +13,6 @@ Contact
 <br>
 <br>
 <br>
-[![Dayane Stats](https://github-readme-stats.vercel.app/api?username=Dayane1504)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayane1504&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
