@@ -3,7 +3,7 @@
 Olá, meu nome é Dayane. Sou um programador front-end com experiência em html, css e javascript. No momento estou aprendendo java porque estou interessado em trabalhar com programação de software.:blush:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hello, my name is Dayane. I'm a front-end programmer with experience in html, css and javascript.
-At the moment I'm learning java because I'm interested in working with software programming.:blush:
+
 <br>
 <br>
 Contact
