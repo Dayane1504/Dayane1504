@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá, meu nome é Dayane. Sou um programador front-end com experiência em html, css e javascript. No momento estou aprendendo java porque estou interessado em trabalhar com programação de software.:blush:
+Olá, meu nome é Dayane. Sou um programador front-end com experiência em html, css e javascript.:blush:
 
 <br>
 <br>
