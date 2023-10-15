@@ -7,7 +7,7 @@ Olá, meu nome é Dayane. Sou uma programadora front-end com experiência em htm
 Contact
 <br>
 <br>
-<a href="https://www.linkedin.com/in/dayane-soares-7196a526a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"><a/>
+<a href="https://www.linkedin.com/in/dayane1504"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"><a/>
 <br>
 <br>
 
